@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "latest"
+  },
+  "applications": {
+    "Quppled": {
+      "applicationId": "jiGqelJa1mK7fCdbV7m5YhZj4OOn8NXLqF6ajQPy",
+      "masterKey": "pP3jkP8vrJ0ctnI3fdsk66MH2i5U5nf9Ca7ZM1da"
+    },
+    "_default": {
+      "link": "Quppled"
+    }
+  }
+}

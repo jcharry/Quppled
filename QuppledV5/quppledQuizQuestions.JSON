@@ -1,0 +1,98 @@
+[ 	
+	{
+	"questionIndex": "question1",
+	"answers": ["Friends", "Swingers"]
+	}, 
+	{
+	"questionIndex": "question2",
+	"answers": ["Beatles", "Rolling Stones"]
+	},
+	{
+	"questionIndex": "question3",
+	"answers": ["Club all night", "Jenga at home"]
+	},
+	{
+	"questionIndex": "question4",
+	"answers": ["Walks on the beach", "Edge of your seat"]
+	},
+    {
+	"questionIndex": "question5",
+	"answers": ["Party Animal", "Dinner Party"]
+	},
+	{
+	"questionIndex": "question6",
+	"answers": ["Free Willy", "Kill Willy"]
+	},
+	{
+	"questionIndex": "question7",
+	"answers": ["Wild and Adventurous", "If it ain't broke, don't fix it"]
+	},
+	{
+	"questionIndex": "question8",
+	"answers": ["Michael Jackson", "Janet Jackson"]
+	},
+    {
+    "questionIndex": "question9",
+    "answers": ["Reading by the ocean","Shredding the Powder"]
+    },
+    {
+    "questionIndex": "question10",
+    "answers": ["Arnold","Sylvester"]
+    },
+    {
+    "questionIndex": "question11",
+    "answers": ["Clowns","Mimes"]
+    },
+    {
+    "questionIndex": "question12",
+    "answers": ["Chicken","Cow"]
+    },
+    {
+    "questionIndex": "question13",
+    "answers": ["Butt","Boobs"]
+    },
+    {
+    "questionIndex": "question14",
+    "answers": ["Tick Tock","Fashionably Late"]
+    },
+    {
+    "questionIndex": "question15",
+    "answers": ["Punishment","Crime"]
+    },
+    {
+    "questionIndex": "question16",
+    "answers": ["Seven","Eight"]
+ },
+ {
+ "questionIndex": "question17",
+ "answers": ["Purple","Red"]
+ },
+ {
+ "questionIndex": "question18",
+ "answers": ["Biggie","Tupac"]
+ },
+ {
+ "questionIndex": "question19",
+ "answers": ["Dexter","Deb"]
+ },
+ {
+ "questionIndex": "question20",
+ "answers": ["Goku","Trunks"]
+ },
+ {
+ "questionIndex": "question21",
+ "answers": ["Pasta","Pizza"]
+ },
+ {
+ "questionIndex": "question22",
+ "answers": ["Dubstep","Fingerpicking"]
+ },
+ {
+ "questionIndex": "question23",
+ "answers": ["Gluttony","Vanity"]
+ },
+ {
+ "questionIndex": "question24",
+ "answers": ["Couch Potato","Gym rat"]
+ }
+]
