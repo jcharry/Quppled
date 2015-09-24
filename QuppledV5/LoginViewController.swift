@@ -34,6 +34,12 @@ class LoginViewController: UIViewController, UITextFieldDelegate, UIScrollViewDe
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // Example of calling cloud code from Parse
+        PFCloud.callFunctionInBackground("hello", withParameters: nil) { (result:AnyObject?, error:NSError?) -> Void in
+            let response = result as? String
+            print(response)
+        }
+        
         let firstLaunch = defaults.boolForKey(QuppledConstants.FirstLaunchDefaultsKey)
         if firstLaunch != true {
             // this is the first launch, show the welcome screen
